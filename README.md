@@ -12,6 +12,7 @@ Wordpress の環境
 - nginx
 - PHP 5.6
 - Mariadb 10.0
+- Postfix
 
 Wordpress
 ---------
@@ -42,4 +43,5 @@ Wordpress
 - firewalld
 - SELinux
 - Fail2Ban
+- Clam AntiVirus
 - WPScan
